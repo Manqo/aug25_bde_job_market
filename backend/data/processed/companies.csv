@@ -1,0 +1,101 @@
+company_id,company_name,description,publication_date,size,locations,industries
+15000203,Circle,,2023-03-07 17:50:06.946388+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-MA', 'city': 'Boston'}]",[{'name': 'Financial Services'}]
+15000097,DoorDash,"At DoorDash, our mission is to empower local economies.",2022-02-28 14:56:53.750921+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Chicago'}, {'country_code': 'US', 'subdivision_code': 'US-CO', 'city': 'Denver'}, {'country_code': 'MX', 'subdivision_code': None, 'city': 'Mexico City'}, {'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}, {'country_code': 'US', 'subdivision_code': 'US-WA', 'city': 'Seattle'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Sunnyvale'}, {'country_code': 'BR', 'subdivision_code': None, 'city': 'São Paulo'}, {'country_code': 'US', 'subdivision_code': 'US-AZ', 'city': 'Tempe'}, {'country_code': 'US', 'subdivision_code': 'US-DC', 'city': 'Washington'}]","[{'name': 'Consumer Goods & Services'}, {'name': 'Food & Beverage'}, {'name': 'Technology'}]"
+1103,Philips,"Philips is a leading health tech company, improving people’s health and enabling better outcomes across the health continuum—from healthy living and prevention to diagnosis, treatment, and home care.",2016-11-01 18:39:10.861300+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-MA', 'city': 'Cambridge'}, {'country_code': 'US', 'subdivision_code': 'US-TN', 'city': 'Nashville'}, {'country_code': 'US', 'subdivision_code': 'US-WA', 'city': 'Seattle'}]","[{'name': 'Healthcare'}, {'name': 'Technology'}]"
+15000190,SpaceX,,2023-02-24 18:44:27.755765+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Torrance'}]","[{'name': 'Information Technology'}, {'name': 'Manufacturing'}]"
+15000202,GlossGenius,,2023-03-07 17:45:37.137777+00:00,Medium Size,"[{'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}]",[{'name': 'Software'}]
+15000187,Sotheby's,,2023-02-24 17:28:58.127578+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'Manhattan'}]",[{'name': 'Arts & Music'}]
+11739,"Audible, Inc.",We unleash the power of the spoken word.,2019-04-03 17:39:12.512278+00:00,Large Size,"[{'country_code': 'DE', 'subdivision_code': None, 'city': 'Berlin'}, {'country_code': 'US', 'subdivision_code': 'US-MA', 'city': 'Cambridge'}, {'country_code': 'IN', 'subdivision_code': None, 'city': 'Chennai'}, {'country_code': 'GB', 'subdivision_code': None, 'city': 'London'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Los Angeles'}, {'country_code': 'MX', 'subdivision_code': None, 'city': 'Mexico City'}, {'country_code': 'US', 'subdivision_code': 'US-NJ', 'city': 'Newark'}, {'country_code': 'AU', 'subdivision_code': None, 'city': 'Sydney'}, {'country_code': 'JP', 'subdivision_code': None, 'city': 'Tokyo'}]","[{'name': 'Engineering'}, {'name': 'Entertainment & Gaming'}, {'name': 'Media'}, {'name': 'Technology'}]"
+15000197,Rent the Runway,,2023-03-07 17:52:11.925681+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}]",[{'name': 'Retail'}]
+15000188,Flexport,,2023-03-07 18:03:32.923451+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}]",[{'name': 'Information Technology'}]
+15000199,Riot Games,,2023-03-07 17:42:11.963156+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Santa Monica'}]",[{'name': 'Entertainment & Gaming'}]
+1484,Sunrun,Sunrun is building a more sustainable world by making solar simple for its customers.,2020-06-01 21:20:18.794189+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CO', 'city': 'Denver'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}, {'country_code': 'US', 'subdivision_code': 'US-CO', 'city': 'Westminster'}]","[{'name': 'Social Good'}, {'name': 'Technology'}]"
+12215,monday.com,"monday.com is a cloud-based work operating system where teams create workflow apps in minutes to run their processes, projects, and everyday work.",2021-02-17 16:55:52.661318+00:00,Medium Size,"[{'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Chicago'}, {'country_code': 'GB', 'subdivision_code': None, 'city': 'London'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Miami'}, {'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}, {'country_code': 'AU', 'subdivision_code': None, 'city': 'Sydney'}, {'country_code': 'IL', 'subdivision_code': None, 'city': 'Tel Aviv'}, {'country_code': 'JP', 'subdivision_code': None, 'city': 'Tokyo'}]",[{'name': 'Technology'}]
+12003,Citizens,"At Citizens, we're on a mission to help our customers, colleagues, and communities reach their potential.",2020-06-11 20:33:11.290078+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-RI', 'city': 'Providence'}]",[{'name': 'Financial Services'}]
+15000150,Unum Group,"At Unum Group, were a leading provider of disability benefits worldwide. We deliver this and other employee benefits for our client companies to help their employees protect their families, finances and futures. And we make it easy for people to use and manage their benefits, so they can get the most value from their coverage.",2022-11-04 18:29:41.013543+00:00,Large Size,"[{'country_code': 'IE', 'subdivision_code': None, 'city': 'Carlow'}, {'country_code': 'US', 'subdivision_code': 'US-TN', 'city': 'Chattanooga'}, {'country_code': 'US', 'subdivision_code': 'US-SC', 'city': 'Columbia'}, {'country_code': 'US', 'subdivision_code': 'US-ME', 'city': 'Portland'}, {'country_code': 'GB', 'subdivision_code': None, 'city': 'Reigate'}]","[{'name': 'Financial Services'}, {'name': 'Insurance'}, {'name': 'Technology'}]"
+15000858,Whole Foods Market,,,Large Size,,
+15000818,Ascension,,,Large Size,,
+15000277,BD,,2023-07-05 16:24:01.013383+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Diego'}]",[{'name': 'Healthcare'}]
+15000658,Bentley Boston,,,Large Size,,
+15000746,Kellermeyer,,,Large Size,,
+15000625,Disneyland Resort,,,Large Size,,
+15000983,The Laurels of Hamilton,,,Large Size,,
+15000491,FM Global,,2024-04-17 14:01:08.771944+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-RI', 'city': 'Johnston'}]",[{'name': 'Insurance'}]
+15000868,Addison Gilbert Hospital,,,Large Size,,
+15000894,Circle K,,,Large Size,,
+15000869,AHN Healthcare@Home,,,Large Size,,
+15000877,Beth Israel Deaconess Hospital Milton,,,Large Size,,
+15000872,"Aulani, A Disney Resort & Spa",,,Large Size,,
+15000977,The Laurels of Dekalb,,,Large Size,,
+15000713,Athletico Physical Therapy,,,Large Size,,
+15000854,Employbridge,,,Large Size,,
+15000475,Renaissance,"Renaissance Learning is a global leader in assessment, reading, and math solutions for pre-K–12 schools and districts. Renaissance is committed to providing educators with insights and resources to accelerate growth and help all students build a strong foundation for success. Renaissance solutions are used in over one-third of US schools and in more than 100 countries worldwide.",2024-02-29 14:24:30.911662+00:00,Large Size,"[{'country': 'Flexible/Remote', 'state': 'Flexible/Remote', 'city': 'Flexible/Remote'}]","[{'name': 'Education'}, {'name': 'Technology'}]"
+11723,Equity Lifestyle Properties,"ELS owns and operates manufactured home communities, RV resorts, and campgrounds across North America.",2019-02-14 20:35:29.006673+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Chicago'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Clermont'}, {'country_code': 'US', 'subdivision_code': 'US-CO', 'city': 'Denver'}, {'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'East Stroudsburg'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Homestead'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Kissimmee'}, {'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'Lancaster'}, {'country_code': 'US', 'subdivision_code': 'US-NV', 'city': 'Las Vegas'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Leesburg'}, {'country_code': 'US', 'subdivision_code': 'US-NC', 'city': 'Lexington'}, {'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'Lititz'}, {'country_code': 'US', 'subdivision_code': 'US-WA', 'city': 'Longview'}, {'country_code': 'US', 'subdivision_code': 'US-NJ', 'city': 'Millville'}, {'country_code': 'US', 'subdivision_code': 'US-MI', 'city': 'Niles'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Orlando'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Palm Springs'}, {'country_code': 'US', 'subdivision_code': 'US-AZ', 'city': 'Phoenix'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Plant City'}, {'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'Reading'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Santa Cruz'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Sarasota'}, {'country_code': 'US', 'subdivision_code': 'US-AZ', 'city': 'Sierra Vista'}, {'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Tampa'}, {'country_code': 'US', 'subdivision_code': 'US-AZ', 'city': 'Tucson'}, {'country_code': 'US', 'subdivision_code': 'US-NJ', 'city': 'Vineland'}, {'country_code': 'US', 'subdivision_code': 'US-VA', 'city': 'Williamsburg'}]","[{'name': 'Real Estate & Construction'}, {'name': 'Travel and Hospitality'}]"
+15000898,Desert Regional Medical Center,,,Large Size,,
+15000934,Optum,,,Large Size,,
+15000266,TD Bank,,2023-07-05 16:08:10.498809+00:00,Large Size,"[{'country_code': 'CA', 'subdivision_code': None, 'city': 'Toronto'}]",[{'name': 'Financial Services'}]
+15000289,Forcepoint,,2023-07-18 13:04:02.859522+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-TX', 'city': 'Austin'}]",[{'name': 'Technology'}]
+15000688,Athenahealth,,,Large Size,,
+15000809,Boston Children's Hospital,,,Large Size,,
+15000668,Rio Rancho Center,,,Large Size,,
+15000656,General Dynamics Information Technology,,,Large Size,,
+15000525,ShorePoint Health - Port Charlotte,,2024-05-29 15:59:37.557992+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-FL', 'city': 'Port Charlotte'}]",[{'name': 'Healthcare'}]
+15000240,Royal Bank of Canada,,2023-05-31 14:49:39.710955+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-MN', 'city': 'Minneapolis'}]",[{'name': 'Financial Services'}]
+15000615,Avalonbay Communities,,,Large Size,,
+15000727,Nordstrom,,,Large Size,,
+15000807,Community Choice Financial Family of Brands,,,Large Size,,
+15000804,Zeeland Standand,,,Large Size,,
+15000664,Herb Chambers Chrysler Dodge Jeep Ram Fiat of Danvers,,,Large Size,,
+15000484,Advanced Technology Services,,2024-03-28 17:35:47.191140+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Peoria'}]","[{'name': 'Manufacturing'}, {'name': 'Technology'}]"
+15000708,cumberlandfarmsinc,,,Large Size,,
+15000706,HCA Florida North Florida Hospital,,,Large Size,,
+15000863,Experian,"We are a data and analytics powerhouse. We help individuals take control of their financial lives and follow their dreams. Businesses rely on our valuable data and powerful analytics to make smarter decisions and to mitigate risk. We are changing lending, helping business detect more fraud, simplifying healthcare, making it easier to get a car and much more. We power opportunities in a way that is unique to Experian.",2025-02-07 16:48:26.730445+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Costa Mesa'}]","[{'name': 'Financial Services'}, {'name': 'Fintech'}, {'name': 'Information Technology'}, {'name': 'Technology'}]"
+15001017,Wegmans Food Markets,,,Large Size,,
+15000796,Avis Budget Group,,,Large Size,,
+15000768,Urgent Team Management,,,Large Size,,
+15000778,"SimVentions, Inc  - Glassdoor ✪ 4.6",,,Large Size,,
+15000788,Waste Management,,,Large Size,,
+15001023,PIH Health,,,Large Size,,
+15000930,"MetroWest  Physician Services, Inc",,,Large Size,,
+15000529,The Thompson Organization,,2024-05-29 16:28:42.815376+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'Warminster'}]",[{'name': 'Manufacturing'}]
+15000755,Journeys,,,Large Size,,
+15000965,Tenet Regional Resource Pool,,,Large Size,,
+15000739,BluSky,,,Large Size,,
+15000982,The Laurels of Greentree Ridge,,,Large Size,,
+15000951,Residential Home Health and Hospice,,,Large Size,,
+15000893,Ciena Healthcare Southwest Michigan,,,Large Size,,
+15000693,Constellation Energy,,,Large Size,,
+15000813,House of Sport,,,Large Size,,
+15000933,Omni Continuing Care,,,Large Size,,
+15000856,Trulite Glass & Aluminum Solutions,,,Large Size,,
+15001019,Willowbrook Manor,,,Large Size,,
+15000522,DXL,,2024-05-21 14:12:47.439108+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-MA', 'city': 'Canton'}]",[{'name': 'Retail'}]
+15000829,Genworth,,,Large Size,,
+15000531,Heartlite Hospice,,2024-05-29 15:38:13.611856+00:00,Medium Size,"[{'country_code': 'US', 'subdivision_code': 'US-AL', 'city': 'Scottsboro'}]",[{'name': 'Healthcare'}]
+15000521,Geisinger,,2024-05-21 14:08:29.532942+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-PA', 'city': 'Danville'}]",[{'name': 'Healthcare'}]
+15000864,ProPivotal,,,Large Size,,
+15000770,Kantar,,,Large Size,,
+15000959,Schwan's,,,Large Size,,
+15000095,Appfire,Appfire is a leading provider of software that helps developers and teams solve modern challenges with digital solutions.,2022-04-13 18:38:26.798501+00:00,Medium Size,"[{'country_code': 'US', 'subdivision_code': 'US-MA', 'city': 'Burlington'}, {'country_code': 'PL', 'subdivision_code': None, 'city': 'Gdańsk'}, {'country_code': 'BG', 'subdivision_code': None, 'city': 'Sofia'}, {'country_code': 'CA', 'subdivision_code': None, 'city': 'Vancouver'}, {'country_code': 'PL', 'subdivision_code': None, 'city': 'Warsaw'}, {'country_code': 'CH', 'subdivision_code': None, 'city': 'Zurich'}]","[{'name': 'Software'}, {'name': 'Technology'}]"
+15000729,"HEALTH CONNECT AMERICA, INC",,,Large Size,,
+15000882,CareConnect,,,Large Size,,
+15000840,Michael Foods Inc.,,,Large Size,,
+15000890,Christus Health,,,Large Size,,
+15000312,CompTIA,"CompTIA is the most respected place to help students, career changers, tech professionals—anyone—start and succeed in a tech career. We impact more than 1 million people every year, by providing affordable, quick learning resources in both self-study and online formats. CompTIA resources are found in community colleges, online universities and with training providers. We are a global leader respected by employers around the world, defining the necessary workforce skills and required knowledge. Our global community is dedicated to solving real business problems and future-proofing for success.",2023-08-04 15:33:04.693806+00:00,Medium Size,"[{'country_code': 'ZA', 'subdivision_code': None, 'city': 'Diepsloot'}, {'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Downers Grove'}, {'country_code': 'GB', 'subdivision_code': None, 'city': 'London'}, {'country_code': 'JP', 'subdivision_code': None, 'city': 'Tokyo'}, {'country_code': 'US', 'subdivision_code': 'US-DC', 'city': 'Washington'}]","[{'name': 'Education'}, {'name': 'Information Technology'}, {'name': 'Non-Profit'}, {'name': 'Technology'}]"
+15000941,Regency at Bluffs Park,,,Large Size,,
+11895,Lyft,"Lyft provides shared rides, bike-share systems, public transit partnerships, and more.",2021-02-01 16:39:35.623947+00:00,Large Size,"[{'country': 'Flexible/Remote', 'state': 'Flexible/Remote', 'city': 'Flexible/Remote'}]",[{'name': 'Technology'}]
+15000210,Adyen,"We are the financial technology platform of choice for the world’s leading brands. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen works with the likes of Facebook, Uber, H&M, eBay, and Microsoft.",2023-03-07 18:13:32.627813+00:00,Large Size,"[{'country_code': 'NL', 'subdivision_code': None, 'city': 'Amsterdam'}, {'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Chicago'}, {'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}]","[{'name': 'Financial Services'}, {'name': 'Fintech'}, {'name': 'Software'}, {'name': 'Technology'}]"
+15000526,Carlsbad Medical Center,,2024-05-29 16:11:27.168192+00:00,Medium Size,"[{'country_code': 'US', 'subdivision_code': 'US-NM', 'city': 'Carlsbad'}]",[{'name': 'Healthcare'}]
+15000751,Epic Travel Staffing,,,Large Size,,
+15000724,Tufts Medicine Care at Home,,,Large Size,,
+15000734,RPS,,,Large Size,,
+15000833,Gramercy Park ASC,,,Large Size,,
+15000741,Mauser Packaging Solutions,,,Large Size,,
+15000895,Comcast Corporation,,,Large Size,,
+61,Uber,"Uber is changing how people think about transportation, part of the logistical fabric of 600+ cities. Whether it’s a ride, a sandwich, or a package, Uber gives people what they want when they want it.",2016-01-13 21:59:13.279775+00:00,Large Size,"[{'country_code': 'NL', 'subdivision_code': None, 'city': 'Amsterdam'}, {'country_code': 'IN', 'subdivision_code': None, 'city': 'Bangalore'}, {'country_code': 'AR', 'subdivision_code': None, 'city': 'Buenos Aires'}, {'country_code': 'US', 'subdivision_code': 'US-IL', 'city': 'Chicago'}, {'country_code': 'US', 'subdivision_code': 'US-TX', 'city': 'Dallas'}, {'country_code': 'HK', 'subdivision_code': None, 'city': 'Hong Kong'}, {'country_code': 'IN', 'subdivision_code': None, 'city': 'Hyderabad'}, {'country_code': 'PL', 'subdivision_code': None, 'city': 'Krakow'}, {'country_code': 'GB', 'subdivision_code': None, 'city': 'London'}, {'country_code': 'MX', 'subdivision_code': None, 'city': 'Mexico City'}, {'country_code': 'US', 'subdivision_code': 'US-NY', 'city': 'New York City'}, {'country_code': 'FR', 'subdivision_code': None, 'city': 'Paris'}, {'country_code': 'US', 'subdivision_code': 'US-AZ', 'city': 'Phoenix'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'San Francisco'}, {'country_code': 'US', 'subdivision_code': 'US-WA', 'city': 'Seattle'}, {'country_code': 'US', 'subdivision_code': 'US-CA', 'city': 'Sunnyvale'}, {'country_code': 'AU', 'subdivision_code': None, 'city': 'Sydney'}, {'country_code': 'BR', 'subdivision_code': None, 'city': 'São Paulo'}, {'country_code': 'TW', 'subdivision_code': None, 'city': 'Taipei'}, {'country_code': 'JP', 'subdivision_code': None, 'city': 'Tokyo'}, {'country_code': 'CA', 'subdivision_code': None, 'city': 'Toronto'}, {'country_code': 'IN', 'subdivision_code': None, 'city': 'Visakhapatnam'}]",[{'name': 'Technology'}]
+15001009,The Manor of Novi,,,Large Size,,
+15000527,Heart of Hospice LLC,,2024-05-29 16:16:11.332961+00:00,Large Size,"[{'country_code': 'US', 'subdivision_code': 'US-SC', 'city': 'North Charleston'}]",[{'name': 'Healthcare'}]
+15000648,TriStar Healthcare at Home,,,Large Size,,
+15000928,Masonicare,,,Large Size,,
+15000754,UCHealth,,,Large Size,,
+15000614,AstraZeneca,,,Large Size,,
