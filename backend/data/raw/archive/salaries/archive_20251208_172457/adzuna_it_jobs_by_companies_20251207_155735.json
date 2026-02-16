@@ -1,0 +1,602 @@
+[
+  {
+    "created": "2025-11-27T06:07:23Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "longitude": -99.695514,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Impact, Taylor County",
+      "area": [
+        "US",
+        "Texas",
+        "Taylor County",
+        "Impact"
+      ]
+    },
+    "salary_min": 214231.95,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "id": "5515985942",
+    "contract_type": "contract",
+    "redirect_url": "https://www.adzuna.com/details/5515985942?utm_medium=api&utm_source=d46d2f50",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTk4NTk0MiIsInMiOiJsRVlMbElQVDhCRzJ2SmRSejZHUGZnIn0.g_H98hzwYQn1zm0NPQjw1uYhipIa-Xa5-KobqtTUv4I",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "*US AMR-Jones Lang LaSalle Americas, Inc."
+    },
+    "title": "Assistant Chief Engineer - Critical Environments",
+    "salary_max": 214231.95,
+    "salary_is_predicted": "1",
+    "latitude": 32.495813,
+    "description": "JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant…",
+    "_country": "us",
+    "_company_query": "*US AMR-Jones Lang LaSalle Americas, Inc."
+  },
+  {
+    "longitude": -96.94904,
+    "location": {
+      "area": [
+        "US",
+        "Texas",
+        "Dallas",
+        "Irving"
+      ],
+      "display_name": "Irving, Dallas",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "created": "2025-11-07T12:04:29Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 99730.34,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5485839066",
+    "description": "AI Senior Consultant About ABeam Consulting ABeam Consulting is a global professional services firm with over 8,000 consultants worldwide, delivering digital transformation and operational excellence for clients across various industries. As a trusted SAP Gold Partner, ABeam delivers innovative, insight-driven solutions with a strong commitment to client success. Position Responsibilities: ABeam Consulting is seeking a Client-Facing AI Consultant who can bridge the gap between business strategy…",
+    "salary_max": 99730.34,
+    "salary_is_predicted": "1",
+    "latitude": 32.89297,
+    "title": "AI Senior Consultant",
+    "redirect_url": "https://www.adzuna.com/details/5485839066?utm_medium=api&utm_source=d46d2f50",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABeam Consulting"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTgzOTA2NiIsInMiOiJub09wbFlQVDhCRzJ2SmRSejZHUGZnIn0.KZjNEfK3OKrjZM_4L9oTCRJIAIJSuTB4fnSq2MgF_A4",
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "title": "SAP BASIS Consultant",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABeam Consulting"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9PcGxZUFQ4QkcydkpkUno2R1BmZyIsImkiOiI1NDk2MTA5OTkyIn0.Sm6Lupxe3546ldlYdhv6_g5kH62kOKATULo1hm80hBM",
+    "redirect_url": "https://www.adzuna.com/details/5496109992?utm_medium=api&utm_source=d46d2f50",
+    "salary_is_predicted": "1",
+    "salary_max": 84484.97,
+    "latitude": 32.872152,
+    "description": "SAP BASIS Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day, you will be presented with a series of challenges that will position you for your personal growth and your professional…",
+    "id": "5496109992",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 84484.97,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-11-14T09:29:39Z",
+    "longitude": -96.996093,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Irving, Dallas",
+      "area": [
+        "US",
+        "Texas",
+        "Dallas",
+        "Irving"
+      ]
+    },
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "id": "5276476246",
+    "salary_is_predicted": "1",
+    "salary_max": 78379.42,
+    "latitude": 32.798895,
+    "description": "SAP PP Senior Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your professio…",
+    "redirect_url": "https://www.adzuna.com/details/5276476246?utm_medium=api&utm_source=d46d2f50",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABeam Consulting"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI3NjQ3NjI0NiIsInMiOiJub09wbFlQVDhCRzJ2SmRSejZHUGZnIn0.xgxs3sC0hhjVuG7dwrxmMxYcpNS_cpFYyDQvsk3XWis",
+    "title": "SAP PP Senior Consultant",
+    "longitude": -96.767002,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Dallas, Texas",
+      "area": [
+        "US",
+        "Texas",
+        "Dallas"
+      ]
+    },
+    "created": "2025-06-30T20:36:32Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 78379.42,
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2025-06-18T17:02:00Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "Texas",
+        "Dallas"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Dallas, Texas"
+    },
+    "longitude": -96.767002,
+    "salary_min": 89252.04,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5257216820",
+    "title": "SAP MM Senior Consultant",
+    "redirect_url": "https://www.adzuna.com/details/5257216820?utm_medium=api&utm_source=d46d2f50",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9PcGxZUFQ4QkcydkpkUno2R1BmZyIsImkiOiI1MjU3MjE2ODIwIn0.xcUe25-cgedKhB7W69Y6mLCe1TDR5c6NBGI0CfZBdRE",
+    "company": {
+      "display_name": "ABeam Consulting",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "latitude": 32.798895,
+    "description": "SAP MM Senior Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your professio…",
+    "salary_max": 89252.04,
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "salary_min": 117221.62,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-08-27T20:08:58Z",
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Irving, Dallas",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Texas",
+        "Dallas",
+        "Irving"
+      ]
+    },
+    "longitude": -96.94904,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9PcGxZUFQ4QkcydkpkUno2R1BmZyIsImkiOiI1MzcxMTQxODQ1In0.kNGowtlfL9yDbrtmBbd8TB5fA9puaR1zMES5WmezOx8",
+    "company": {
+      "display_name": "ABeam Consulting",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5371141845?utm_medium=api&utm_source=d46d2f50",
+    "title": "SAP MM Senior Consultant",
+    "salary_is_predicted": "1",
+    "latitude": 32.89297,
+    "salary_max": 117221.62,
+    "description": "SAP MM Senior Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your professio…",
+    "id": "5371141845",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2025-07-02T03:12:45Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -96.94904,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Irving, Dallas",
+      "area": [
+        "US",
+        "Texas",
+        "Dallas",
+        "Irving"
+      ]
+    },
+    "salary_min": 74847.89,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5279238315",
+    "title": "SAP PP Senior Consultant",
+    "redirect_url": "https://www.adzuna.com/details/5279238315?utm_medium=api&utm_source=d46d2f50",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABeam Consulting"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9PcGxZUFQ4QkcydkpkUno2R1BmZyIsImkiOiI1Mjc5MjM4MzE1In0.fPImjTYFWfSrRMHRVQ7LIm9Pw_JjTmPInuCFEiTfXmE",
+    "salary_is_predicted": "1",
+    "latitude": 32.89297,
+    "salary_max": 74847.89,
+    "description": "SAP PP Senior Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your professio…",
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "salary_min": 74403.02,
+    "longitude": -96.94904,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Irving, Dallas",
+      "area": [
+        "US",
+        "Texas",
+        "Dallas",
+        "Irving"
+      ]
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-11-23T20:59:24Z",
+    "salary_max": 74403.02,
+    "salary_is_predicted": "1",
+    "description": "SAP EWM Senior Consultant At ABeam Consulting, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work together with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your professi…",
+    "latitude": 32.89297,
+    "title": "SAP EWM Senior Consultant",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDk1OTM3NiIsInMiOiJub09wbFlQVDhCRzJ2SmRSejZHUGZnIn0.aFeLHr_KAWKNSY_Umf7evuTO_CQk4Z43tDkp6-lmC-w",
+    "company": {
+      "display_name": "ABeam Consulting",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5510959376?utm_medium=api&utm_source=d46d2f50",
+    "id": "5510959376",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "salary_is_predicted": "1",
+    "description": "Financial Services Business Consultant At ABeam, you will be a part of the next digital revolution. ABeam's success is created from the contributions of each of our valued employees. At ABeam, you are not just a number! Our employees work hand-in-hand with all tiers of the organization. Through our collective efforts, we provide optimal opportunities for growth and development. Each day you will be presented with a series of challenges that will position you for your personal growth and your pr…",
+    "salary_max": 91008.12,
+    "salary_min": 91008.12,
+    "redirect_url": "https://www.adzuna.com/details/5498143863?utm_medium=api&utm_source=d46d2f50",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABeam Consulting"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm9PcGxZUFQ4QkcydkpkUno2R1BmZyIsImkiOiI1NDk4MTQzODYzIn0.RkyMcCJtdPhOBuCdaV9ii169RtBdTEwIYtUHjHnp0IU",
+    "title": "Financial Services Business Consultant",
+    "location": {
+      "area": [
+        "US",
+        "New York",
+        "New York City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "New York City, New York"
+    },
+    "created": "2025-11-15T14:49:37Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5498143863",
+    "contract_time": "full_time",
+    "_country": "us",
+    "_company_query": "ABeam Consulting"
+  },
+  {
+    "salary_min": 102640.72,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-10-19T16:17:40Z",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTU1NzU4NiIsInMiOiJFaGxpbDRQVDhCR0h4ZjJSM0g2U1JBIn0.U1UbJ7KFecA6gSIYCNMD4THr2LeRdxvFTbiX2PJQu6U",
+    "location": {
+      "display_name": "Chandler, Maricopa County",
+      "area": [
+        "US",
+        "Arizona",
+        "Maricopa County",
+        "Chandler"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 102640.72,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "ASML",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Tech Support Engineer Do you want to make a real-world impact by supporting the technologies that shape tomorrow? As a Tech Support Engineer at ASML, you will join a global leader in semiconductor equipment, helping to advance the boundaries of technology. ASML’s mission is to unlock the potential of people and society by pushing the limits of what is possible. As a Tech Support Engineer, you play a key role in ensuring that our cutting-edge systems perform at their best, strengthening the back…",
+    "title": "Field Service Engineer (DUV 2L Generalist)",
+    "id": "5455557586",
+    "salary_is_predicted": "1",
+    "longitude": -111.874745,
+    "redirect_url": "https://www.adzuna.com/details/5455557586?utm_medium=api&utm_source=d46d2f50",
+    "latitude": 33.32603,
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "created": "2025-12-04T14:28:57Z",
+    "location": {
+      "area": [
+        "US",
+        "Connecticut",
+        "Fairfield County",
+        "Wilton"
+      ],
+      "display_name": "Wilton, Fairfield County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 99840,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzk5NjM3MiIsInMiOiJFaGxpbDRQVDhCR0h4ZjJSM0g2U1JBIn0.JpHhxglhqU6LElUa0mTULtyGJo7M4jeeTGzWAT7IHUE",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 37440,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Introduction to the Job Are you ready to make a real-world impact through technology? At ASML, you will help solve complex challenges that shape the future of microchip manufacturing. As an Internship – Software Engineer (GEM), you become part of a global team dedicated to advancing innovation and pushing boundaries. ASML’s mission is to enable groundbreaking technology that enriches society and improves daily life. Join us in our commitment to excellence and be part of a community that values …",
+    "contract_type": "contract",
+    "title": "Internship - Software Engineer - Summer 2026 (GEM)",
+    "company": {
+      "display_name": "ASML",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "latitude": 41.207733,
+    "salary_is_predicted": "0",
+    "longitude": -73.441593,
+    "id": "5527996372",
+    "redirect_url": "https://www.adzuna.com/details/5527996372?utm_medium=api&utm_source=d46d2f50",
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "latitude": 41.207733,
+    "id": "5432857127",
+    "salary_is_predicted": "1",
+    "longitude": -73.441593,
+    "redirect_url": "https://www.adzuna.com/details/5432857127?utm_medium=api&utm_source=d46d2f50",
+    "description": "Introduction to the job ASML is a global leader in the high-tech semiconductor equipment manufacturing industry. The Corporate Real Estate Physical Security Senior Specialist plays a critical role in the safety and security of ASML’s assets and facilities in Wilton, CT. This role supports daily operations, safeguards assets, and enhances the company's security posture while maintaining business continuity and compliance with relevant regulations. Role and responsibilities Oversee the design, in…",
+    "title": "Senior Technical Security Specialist",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ASML"
+    },
+    "created": "2025-10-05T09:19:40Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 102094.12,
+    "location": {
+      "area": [
+        "US",
+        "Connecticut",
+        "Fairfield County",
+        "Wilton"
+      ],
+      "display_name": "Wilton, Fairfield County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRWhsaWw0UFQ4QkdIeGYyUjNINlNSQSIsImkiOiI1NDMyODU3MTI3In0.a5ioLgegu3pB3llOCM3c-HYLtUjDM-plzGHOBM23TcA",
+    "salary_min": 102094.12,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 98515.64,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "San Diego"
+      ],
+      "display_name": "San Diego, San Diego County"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRWhsaWw0UFQ4QkdIeGYyUjNINlNSQSIsImkiOiI1NTE4NTEyODUzIn0.ywW8Gt2VZWygrj1S5cnpnKHTlWn1M4rUFkGGheiyj6w",
+    "created": "2025-11-28T16:56:16Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 98515.64,
+    "title": "Internship - CDO Data / Visualization / Cloud / AI Engineer Intern",
+    "contract_type": "contract",
+    "description": "Introduction As a Data Engineer at ASML, you will play a critical role in developing the data pipeline for the laser machine data and driving the technical details of the projects that would ultimately drive customer satisfaction. Your Assignment Develop data pipeline solutions to contribute towards feature and roadmap. Demonstrate systematic problem-solving to resolve problems and standardize solutions. Interact with cross-functional teams to contribute to system design changes and improving s…",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ASML"
+    },
+    "latitude": 32.726967,
+    "redirect_url": "https://www.adzuna.com/details/5518512853?utm_medium=api&utm_source=d46d2f50",
+    "salary_is_predicted": "1",
+    "id": "5518512853",
+    "longitude": -117.164709,
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "company": {
+      "display_name": "ASML",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "description": "Introduction Team Latent Force is a team that manages and maintains a near-real-time data streaming platform that ingests high-volume machine data from EUV systems and delivers it to visualization applications (Grafana, MATLAB, etc.) used by research and diagnostics teams. Your assignment As a Team Latent Force intern, you will design, develop, and maintain backend services, data pipelines, and Kubernetes-based deployments supporting low-latency, high-reliability data flows. Your profile Must b…",
+    "title": "Internship - CDO Data / Visualization / Cloud / AI Engineer Intern",
+    "contract_type": "contract",
+    "salary_min": 93519.72,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-11-28T19:12:07Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODY0NTQ0NSIsInMiOiJFaGxpbDRQVDhCR0h4ZjJSM0g2U1JBIn0.qb_q4iPybxiYgJKbcFQhS6HfQIo0o_ygayGglELvuZA",
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "San Diego"
+      ],
+      "display_name": "San Diego, San Diego County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 93519.72,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5518645445",
+    "salary_is_predicted": "1",
+    "longitude": -117.164709,
+    "redirect_url": "https://www.adzuna.com/details/5518645445?utm_medium=api&utm_source=d46d2f50",
+    "latitude": 32.726967,
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 101558.95,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_max": 101558.95,
+    "location": {
+      "display_name": "San Diego, San Diego County",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "San Diego"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRWhsaWw0UFQ4QkdIeGYyUjNINlNSQSIsImkiOiI1NTE1NjU1NDExIn0.gV492sRH0pCDPmsJu9yWLDQgqexZUdtKU11tXUYddtY",
+    "created": "2025-11-26T21:45:33Z",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "ASML",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_type": "contract",
+    "title": "Internship - Software Engineer (GEM)",
+    "description": "Introduction ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consum…",
+    "redirect_url": "https://www.adzuna.com/details/5515655411?utm_medium=api&utm_source=d46d2f50",
+    "longitude": -117.164709,
+    "salary_is_predicted": "1",
+    "id": "5515655411",
+    "latitude": 32.726967,
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 84693.26,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRWhsaWw0UFQ4QkdIeGYyUjNINlNSQSIsImkiOiI1NTE1NjM1OTczIn0.s7Iu26Flg-3RyhlnusGTmICqyCPmCmfuvHR4wONpEFE",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "San Diego"
+      ],
+      "display_name": "San Diego, San Diego County"
+    },
+    "salary_max": 84693.26,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2025-11-26T20:34:19Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ASML"
+    },
+    "contract_time": "full_time",
+    "title": "Internship - Data Visualization and Analytics Intern",
+    "contract_type": "contract",
+    "description": "Introduction The US Chief Data Office (CDO) provides business domains with data, analytics, and essential services to support advanced business analytics capabilities. The primary objective of this role is to develop and maintain ASML's enterprise and business process data foundation within the SAP Hana and data visualization platform (Spotfire), thereby enabling trusted data access for ASML US teams. This position requires effective engagement with business clients and the implementation or en…",
+    "redirect_url": "https://www.adzuna.com/details/5515635973?utm_medium=api&utm_source=d46d2f50",
+    "id": "5515635973",
+    "salary_is_predicted": "1",
+    "longitude": -117.164709,
+    "latitude": 32.726967,
+    "_country": "us",
+    "_company_query": "ASML"
+  },
+  {
+    "longitude": -121.89093,
+    "id": "5413812933",
+    "salary_is_predicted": "1",
+    "salary_min": 107233.77,
+    "redirect_url": "https://www.adzuna.com/land/ad/5413812933?se=Ehlil4PT8BGHxf2R3H6SRA&utm_medium=api&utm_source=d46d2f50&v=D0B366FCA75632A1C55FF63311DDA8636BEEB9C2",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 37.304,
+    "created": "2025-09-24T14:04:28Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Campbell, Santa Clara County",
+      "area": [
+        "US",
+        "California",
+        "Santa Clara County",
+        "Campbell"
+      ]
+    }
