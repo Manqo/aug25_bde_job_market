@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+pandas
+requests
+python-dotenv
+pycountry
+asyncpg>=0.27.0
+SQLAlchemy>=2.0
+rapidfuzz
