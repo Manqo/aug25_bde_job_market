@@ -1,0 +1,3121 @@
+[
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Boston, MA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      }
+    ],
+    "tags": [],
+    "short_name": "circle",
+    "name": "Circle",
+    "publication_date": "2023-03-07T17:50:06.946388Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000203,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/circle",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-circle",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000203%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000203/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "At DoorDash, our mission is to empower local economies.",
+    "locations": [
+      {
+        "name": "Chicago, IL"
+      },
+      {
+        "name": "Denver, CO"
+      },
+      {
+        "name": "Mexico City, Mexico"
+      },
+      {
+        "name": "New York, NY"
+      },
+      {
+        "name": "San Francisco, CA"
+      },
+      {
+        "name": "Seattle, WA"
+      },
+      {
+        "name": "Sunnyvale, CA"
+      },
+      {
+        "name": "São Paulo, Brazil"
+      },
+      {
+        "name": "Tempe, AZ"
+      },
+      {
+        "name": "Washington, DC"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Consumer Goods & Services"
+      },
+      {
+        "name": "Food & Beverage"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "doordash",
+    "name": "DoorDash",
+    "publication_date": "2022-02-28T14:56:53.750921Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000097,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/doordash",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-doordash",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000097%2Fabout_modules%2FNone%2Fprofile_image_3.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000097/about_modules/None/profile_image_1.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000097/small_logo.png?v=b9f90222099555b55a519f48ead6fd8c771278a73658bd12292e119cda6e9c5a",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000097/about_modules/None/profile_image_3.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000097/about_modules/None/profile_image_2.jpg"
+    }
+  },
+  {
+    "description": "Philips is a leading health tech company, improving people’s health and enabling better outcomes across the health continuum—from healthy living and prevention to diagnosis, treatment, and home care.",
+    "locations": [
+      {
+        "name": "Cambridge, MA"
+      },
+      {
+        "name": "Nashville, TN"
+      },
+      {
+        "name": "Seattle, WA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "philips",
+    "name": "Philips",
+    "publication_date": "2016-11-01T18:39:10.861300Z",
+    "model_type": "companies",
+    "twitter": "PhilipsJobsNA",
+    "id": 1103,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/philips",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-philips",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F1103%2Fabout_modules%2F4486%2F587dbffa-9f1a-4cbe-9420-898a70e845e1.jpg%3Fv%3D465de13f4429a943919ed8df16798784edb75b09b5169b25176e198f185cd3cd&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/5715a951-4f0b-4c16-b9cc-61fb8412804c.jpg?v=081b439ab2929af817d5184e51e5d09fbcbc8a7bd30e40e4c76427ae6bca48fa",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/1103/small_logo.png?v=540b888124487278bc47591613550101ff3c468cd2e08731f7cffaf9dbbaf381",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/587dbffa-9f1a-4cbe-9420-898a70e845e1.jpg?v=465de13f4429a943919ed8df16798784edb75b09b5169b25176e198f185cd3cd",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/f0e133f9-109d-4ac5-ba46-152f72a2dc15.jpg?v=e2018ad29d16b1447a482779686c81fbf54dddf5a10f0dcbc7bd9d6d8baaa64c"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Torrance, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Information Technology"
+      },
+      {
+        "name": "Manufacturing"
+      }
+    ],
+    "tags": [],
+    "short_name": "spacex",
+    "name": "SpaceX",
+    "publication_date": "2023-02-24T18:44:27.755765Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000190,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/spacex",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-spacex",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000190%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000190/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "New York, NY"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Software"
+      }
+    ],
+    "tags": [],
+    "short_name": "glossgenius",
+    "name": "GlossGenius",
+    "publication_date": "2023-03-07T17:45:37.137777Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000202,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/glossgenius",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-glossgenius",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000202%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000202/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Manhattan, NY"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Arts & Music"
+      }
+    ],
+    "tags": [],
+    "short_name": "sothebys",
+    "name": "Sotheby's",
+    "publication_date": "2023-02-24T17:28:58.127578Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000187,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/sothebys",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-sothebys",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000187%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000187/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "We unleash the power of the spoken word.",
+    "locations": [
+      {
+        "name": "Berlin, Germany"
+      },
+      {
+        "name": "Cambridge, MA"
+      },
+      {
+        "name": "Chennai, India"
+      },
+      {
+        "name": "London, United Kingdom"
+      },
+      {
+        "name": "Los Angeles, CA"
+      },
+      {
+        "name": "Mexico City, Mexico"
+      },
+      {
+        "name": "Newark, NJ"
+      },
+      {
+        "name": "Sydney, Australia"
+      },
+      {
+        "name": "Tokyo, Japan"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Engineering"
+      },
+      {
+        "name": "Entertainment & Gaming"
+      },
+      {
+        "name": "Media"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "audibleinc",
+    "name": "Audible, Inc.",
+    "publication_date": "2019-04-03T17:39:12.512278Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 11739,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/audibleinc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-audibleinc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F11739%2Fabout_modules%2F83679%2Ff85b961a-bf4e-45f5-8684-7b5f6501b363.jpg%3Fv%3D90598f21dc1b4b1c3c45f96d5d60a9e87467bb5e204fa2d94dacc9cfef46755b&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/11739/about_modules/88821/bbbb3fcc-87df-4a1c-a91b-be3ed3e36d5a.jpg?v=6d6aa70c1849379e3435ed1308e29dc1888c647e50dd573e388faa583b3f43f9",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/11739/small_logo.png?v=0aa446c4e924c88692773b2ba183f10390b85991ec272719a62b250aa3d89337",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/11739/about_modules/83679/f85b961a-bf4e-45f5-8684-7b5f6501b363.jpg?v=90598f21dc1b4b1c3c45f96d5d60a9e87467bb5e204fa2d94dacc9cfef46755b",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/11739/about_modules/88821/1b663ae7-341a-498a-a241-d97cd14ad10a.jpg?v=7dc62770357429af3c66efbae1336225cc7fb9453c8aa61a6d37fc4b08d2812f"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "New York, NY"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Retail"
+      }
+    ],
+    "tags": [],
+    "short_name": "renttherunway",
+    "name": "Rent the Runway",
+    "publication_date": "2023-03-07T17:52:11.925681Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000197,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/renttherunway",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-renttherunway",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000197%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000197/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "San Francisco, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Information Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "flexport",
+    "name": "Flexport",
+    "publication_date": "2023-03-07T18:03:32.923451Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000188,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/flexport",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-flexport",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000188%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000188/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Santa Monica, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Entertainment & Gaming"
+      }
+    ],
+    "tags": [],
+    "short_name": "riotgames",
+    "name": "Riot Games",
+    "publication_date": "2023-03-07T17:42:11.963156Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000199,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/riotgames",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-riotgames",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000199%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000199/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "Sunrun is building a more sustainable world by making solar simple for its customers.",
+    "locations": [
+      {
+        "name": "Denver, CO"
+      },
+      {
+        "name": "San Francisco, CA"
+      },
+      {
+        "name": "Westminster, CO"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Social Good"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "sunrun",
+    "name": "Sunrun",
+    "publication_date": "2020-06-01T21:20:18.794189Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 1484,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/sunrun",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-sunrun",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F1484%2Fabout_modules%2F122065%2Fdb67d47a-f4d8-463e-b1c9-029e0e6e0c92.jpg%3Fv%3Dee6f073f8a307c445cce8e2dc9c79325fac083bf1b30e6a85f36bf4514f4948f&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/1484/about_modules/122065/6e7163e2-589b-474a-87d2-281df781893b.jpg?v=6752e94fc5b221a2662715be837f83250da55352f32948c272015498d5426e5c",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/1484/small_logo.png?v=90e41ef04a1420a3b02de884fe8a5e0d7907c15392b18e43b3b40bb74e598822",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/1484/about_modules/122065/db67d47a-f4d8-463e-b1c9-029e0e6e0c92.jpg?v=ee6f073f8a307c445cce8e2dc9c79325fac083bf1b30e6a85f36bf4514f4948f",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/1484/about_modules/122065/5ac46e42-defb-42bc-8105-99b6bc794ef1.jpg?v=ed43c2ef54c883e7312b4417364735e84c515234acebaac8062e825b3596dbaf"
+    }
+  },
+  {
+    "description": "monday.com is a cloud-based work operating system where teams create workflow apps in minutes to run their processes, projects, and everyday work.",
+    "locations": [
+      {
+        "name": "Chicago, IL"
+      },
+      {
+        "name": "London, United Kingdom"
+      },
+      {
+        "name": "Miami, FL"
+      },
+      {
+        "name": "New York, NY"
+      },
+      {
+        "name": "San Francisco, CA"
+      },
+      {
+        "name": "Sydney, Australia"
+      },
+      {
+        "name": "Tel Aviv, Israel"
+      },
+      {
+        "name": "Tokyo, Japan"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "mondaycom",
+    "name": "monday.com",
+    "publication_date": "2021-02-17T16:55:52.661318Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 12215,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/mondaycom",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-mondaycom",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F12215%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/12215/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/12215/small_logo.png?v=115748a479bb796239ba39f1e2a23532bd3dd9eb74396a988d3d88f3d485d4fe",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/12215/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/12215/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "At Citizens, we're on a mission to help our customers, colleagues, and communities reach their potential.",
+    "locations": [
+      {
+        "name": "Providence, RI"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      }
+    ],
+    "tags": [],
+    "short_name": "citizens",
+    "name": "Citizens",
+    "publication_date": "2020-06-11T20:33:11.290078Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 12003,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/citizens",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-citizens",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F12003%2Fpages%2F11803%2Ff1.jpg%3Fv%3Dd0ddd62c255462d456e6f349a11d755e92630482493a82bfbec687c57a4a4b61&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/12003/pages/11803/f2.jpg?v=0cdaa59a0f49573001cf4a9c16d867ca2b25b1cb726ca03d95bdc9f8aa2b0c13",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/12003/small_logo.png?v=106f9e8352ac2f8eb98a481bbdae06df4dcb951038941731c5a9e65546121e4a",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/12003/pages/11803/f1.jpg?v=d0ddd62c255462d456e6f349a11d755e92630482493a82bfbec687c57a4a4b61",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/12003/pages/11803/f3.jpg?v=0cdaa59a0f49573001cf4a9c16d867ca2b25b1cb726ca03d95bdc9f8aa2b0c13"
+    }
+  },
+  {
+    "description": "At Unum Group, were a leading provider of disability benefits worldwide. We deliver this and other employee benefits for our client companies to help their employees protect their families, finances and futures. And we make it easy for people to use and manage their benefits, so they can get the most value from their coverage.",
+    "locations": [
+      {
+        "name": "Carlow, Ireland"
+      },
+      {
+        "name": "Chattanooga, TN"
+      },
+      {
+        "name": "Columbia, SC"
+      },
+      {
+        "name": "Portland, ME"
+      },
+      {
+        "name": "Reigate, United Kingdom"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      },
+      {
+        "name": "Insurance"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "unumgroup",
+    "name": "Unum Group",
+    "publication_date": "2022-11-04T18:29:41.013543Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000150,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/unumgroup",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-unumgroup",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000150%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000150/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000150/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000150/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000150/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "wholefoodsmarket",
+    "name": "Whole Foods Market",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000858,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/wholefoodsmarket",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-wholefoodsmarket",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000858/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "ascension",
+    "name": "Ascension",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000818,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/ascension",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-ascension",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000818/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "San Diego, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "bd",
+    "name": "BD",
+    "publication_date": "2023-07-05T16:24:01.013383Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000277,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/bd",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-bd",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000277%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000277/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "bentleyboston",
+    "name": "Bentley Boston",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000658,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/bentleyboston",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-bentleyboston",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000658/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "kellermeyer",
+    "name": "Kellermeyer",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000746,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/kellermeyer",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-kellermeyer",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000746/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "disneylandresort",
+    "name": "Disneyland Resort",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000625,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/disneylandresort",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-disneylandresort",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000625/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "thelaurelsofhamilton",
+    "name": "The Laurels of Hamilton",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000983,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/thelaurelsofhamilton",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-thelaurelsofhamilton",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000983/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Johnston, RI"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Insurance"
+      }
+    ],
+    "tags": [],
+    "short_name": "fmglobal",
+    "name": "FM Global",
+    "publication_date": "2024-04-17T14:01:08.771944Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000491,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/fmglobal",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-fmglobal",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000491%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000491/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000491/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000491/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000491/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "addisongilberthospital",
+    "name": "Addison Gilbert Hospital",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000868,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/addisongilberthospital",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-addisongilberthospital",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000868/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "circlek",
+    "name": "Circle K",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000894,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/circlek",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-circlek",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000894/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "ahnhealthcarehome",
+    "name": "AHN Healthcare@Home",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000869,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/ahnhealthcarehome",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-ahnhealthcarehome",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000869/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "bethisraeldeaconesshospitalmilton",
+    "name": "Beth Israel Deaconess Hospital Milton",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000877,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/bethisraeldeaconesshospitalmilton",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-bethisraeldeaconesshospitalmilton",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000877/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "aulaniadisneyresortspa",
+    "name": "Aulani, A Disney Resort & Spa",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000872,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/aulaniadisneyresortspa",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-aulaniadisneyresortspa",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000872/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "thelaurelsofdekalb",
+    "name": "The Laurels of Dekalb",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000977,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/thelaurelsofdekalb",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-thelaurelsofdekalb",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000977/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "athleticophysicaltherapy",
+    "name": "Athletico Physical Therapy",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000713,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/athleticophysicaltherapy",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-athleticophysicaltherapy",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000713/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "employbridge",
+    "name": "Employbridge",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000854,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/employbridge",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-employbridge",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000854/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "Renaissance Learning is a global leader in assessment, reading, and math solutions for pre-K–12 schools and districts. Renaissance is committed to providing educators with insights and resources to accelerate growth and help all students build a strong foundation for success. Renaissance solutions are used in over one-third of US schools and in more than 100 countries worldwide.",
+    "locations": [
+      {
+        "name": "Flexible / Remote"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Education"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "renaissance",
+    "name": "Renaissance",
+    "publication_date": "2024-02-29T14:24:30.911662Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000475,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/renaissance",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-renaissance",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000475%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000475/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000475/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000475/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000475/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "ELS owns and operates manufactured home communities, RV resorts, and campgrounds across North America.",
+    "locations": [
+      {
+        "name": "Chicago, IL"
+      },
+      {
+        "name": "Clermont, FL"
+      },
+      {
+        "name": "Denver, CO"
+      },
+      {
+        "name": "East Stroudsburg, PA"
+      },
+      {
+        "name": "Homestead, FL"
+      },
+      {
+        "name": "Kissimmee, FL"
+      },
+      {
+        "name": "Lancaster, PA"
+      },
+      {
+        "name": "Las Vegas, NV"
+      },
+      {
+        "name": "Leesburg, FL"
+      },
+      {
+        "name": "Lexington, NC"
+      },
+      {
+        "name": "Lititz, PA"
+      },
+      {
+        "name": "Longview, WA"
+      },
+      {
+        "name": "Millville, NJ"
+      },
+      {
+        "name": "Niles, MI"
+      },
+      {
+        "name": "Orlando, FL"
+      },
+      {
+        "name": "Palm Springs, CA"
+      },
+      {
+        "name": "Phoenix, AZ"
+      },
+      {
+        "name": "Plant City, FL"
+      },
+      {
+        "name": "Reading, PA"
+      },
+      {
+        "name": "Santa Cruz, CA"
+      },
+      {
+        "name": "Sarasota, FL"
+      },
+      {
+        "name": "Sierra Vista, AZ"
+      },
+      {
+        "name": "Tampa, FL"
+      },
+      {
+        "name": "Tucson, AZ"
+      },
+      {
+        "name": "Vineland, NJ"
+      },
+      {
+        "name": "Williamsburg, VA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Real Estate & Construction"
+      },
+      {
+        "name": "Travel and Hospitality"
+      }
+    ],
+    "tags": [],
+    "short_name": "equitylifestyleproperties",
+    "name": "Equity Lifestyle Properties",
+    "publication_date": "2019-02-14T20:35:29.006673Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 11723,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/equitylifestyleproperties",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-equitylifestyleproperties",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F11723%2Fabout_modules%2F114965%2Fff3ae010-3990-4b53-a31a-63c72dff52d0.jpg%3Fv%3D0d1fbcafd30a9e337330e09787d48ac01fb89df0c6f9f9895c4bf331b9090c04&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/11723/about_modules/114965/314784a6-fb25-40cb-9536-7c279473e008.jpg?v=2f606a256f246fca11f0c0c71b9a440c7026a1949394e30abc6b607248469a9d",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/11723/small_logo.png?v=9499ada87a3f048800bd7f770025ad72e3f4130d185400c15797f44c4c6aa104",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/11723/about_modules/114965/ff3ae010-3990-4b53-a31a-63c72dff52d0.jpg?v=0d1fbcafd30a9e337330e09787d48ac01fb89df0c6f9f9895c4bf331b9090c04",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/11723/about_modules/114965/f8373d42-003e-4943-93fc-d665cb5291f8.jpg?v=2c644a146f5baed92187d1408dffa86fc5580ad2cf6083d598d5858d3cd132e7"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "desertregionalmedicalcenter",
+    "name": "Desert Regional Medical Center",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000898,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/desertregionalmedicalcenter",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-desertregionalmedicalcenter",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000898/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "optum",
+    "name": "Optum",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000934,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/optum",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-optum",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000934/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Toronto, Canada"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      }
+    ],
+    "tags": [],
+    "short_name": "tdbank",
+    "name": "TD Bank",
+    "publication_date": "2023-07-05T16:08:10.498809Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000266,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/tdbank",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-tdbank",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000266%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000266/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Austin, TX"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "forcepoint",
+    "name": "Forcepoint",
+    "publication_date": "2023-07-18T13:04:02.859522Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000289,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/forcepoint",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-forcepoint",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000289%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000289/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "athenahealth",
+    "name": "Athenahealth",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000688,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/athenahealth",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-athenahealth",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000688/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "bostonchildrenshospital",
+    "name": "Boston Children's Hospital",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000809,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/bostonchildrenshospital",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-bostonchildrenshospital",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000809/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "rioranchocenter",
+    "name": "Rio Rancho Center",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000668,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/rioranchocenter",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-rioranchocenter",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000668/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "generaldynamicsinformationtechnology",
+    "name": "General Dynamics Information Technology",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000656,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/generaldynamicsinformationtechnology",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-generaldynamicsinformationtechnology",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000656/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Port Charlotte, FL"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "shorepointhealthportcharlotte",
+    "name": "ShorePoint Health - Port Charlotte",
+    "publication_date": "2024-05-29T15:59:37.557992Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000525,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/shorepointhealthportcharlotte",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-shorepointhealthportcharlotte",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000525%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000525/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000525/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000525/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000525/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Minneapolis, MN"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      }
+    ],
+    "tags": [],
+    "short_name": "royalbankofcanada",
+    "name": "Royal Bank of Canada",
+    "publication_date": "2023-05-31T14:49:39.710955Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000240,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/royalbankofcanada",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-royalbankofcanada",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000240%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000240/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "avalonbaycommunities",
+    "name": "Avalonbay Communities",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000615,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/avalonbaycommunities",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-avalonbaycommunities",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000615/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "nordstrom",
+    "name": "Nordstrom",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000727,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/nordstrom",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-nordstrom",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000727/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "communitychoicefinancialfamilyofbrands",
+    "name": "Community Choice Financial Family of Brands",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000807,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/communitychoicefinancialfamilyofbrands",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-communitychoicefinancialfamilyofbrands",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000807/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "zeelandstandand",
+    "name": "Zeeland Standand",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000804,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/zeelandstandand",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-zeelandstandand",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000804/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "herbchamberschryslerdodgejeepramfiatofdanvers",
+    "name": "Herb Chambers Chrysler Dodge Jeep Ram Fiat of Danvers",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000664,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/herbchamberschryslerdodgejeepramfiatofdanvers",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-herbchamberschryslerdodgejeepramfiatofdanvers",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000664/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Peoria, IL"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Manufacturing"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "advancedtechnologyservices",
+    "name": "Advanced Technology Services",
+    "publication_date": "2024-03-28T17:35:47.191140Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000484,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/advancedtechnologyservices",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-advancedtechnologyservices",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000484%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000484/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000484/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000484/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000484/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "cumberlandfarmsinc",
+    "name": "cumberlandfarmsinc",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000708,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/cumberlandfarmsinc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-cumberlandfarmsinc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000708/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "hcafloridanorthfloridahospital",
+    "name": "HCA Florida North Florida Hospital",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000706,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/hcafloridanorthfloridahospital",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-hcafloridanorthfloridahospital",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000706/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "We are a data and analytics powerhouse. We help individuals take control of their financial lives and follow their dreams. Businesses rely on our valuable data and powerful analytics to make smarter decisions and to mitigate risk. We are changing lending, helping business detect more fraud, simplifying healthcare, making it easier to get a car and much more. We power opportunities in a way that is unique to Experian.",
+    "locations": [
+      {
+        "name": "Costa Mesa, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      },
+      {
+        "name": "Fintech"
+      },
+      {
+        "name": "Information Technology"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "experian",
+    "name": "Experian",
+    "publication_date": "2025-02-07T16:48:26.730445Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000863,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/experian",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-experian",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000863%2Fabout_modules%2F123336%2F41c3bdfc-76ef-4584-b14f-7477a1becd2a.jpg%3Fv%3Dd86a2c47cdc2e8e3b85d75e8d09abc4ed5a8b79ff73119245e578e6d937b1d59&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000863/about_modules/123336/fe3c68c9-a578-4393-9d7d-0ea6900bc247.jpg?v=e4410e3da4ee9b660b3674421f02856dfd5694ea3635edc9e6ec19c7d05969ad",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000863/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000863/about_modules/123336/41c3bdfc-76ef-4584-b14f-7477a1becd2a.jpg?v=d86a2c47cdc2e8e3b85d75e8d09abc4ed5a8b79ff73119245e578e6d937b1d59",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000863/about_modules/123336/8360cce9-15fd-4dc7-bd45-f89bc378c276.jpg?v=dc3e6d16e55be1e8475da370e283c6cdace800d11f0e337205571b3b834789f8"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "wegmansfoodmarkets",
+    "name": "Wegmans Food Markets",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15001017,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/wegmansfoodmarkets",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-wegmansfoodmarkets",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15001017/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "avisbudgetgroup",
+    "name": "Avis Budget Group",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000796,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/avisbudgetgroup",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-avisbudgetgroup",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000796/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "urgentteammanagement",
+    "name": "Urgent Team Management",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000768,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/urgentteammanagement",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-urgentteammanagement",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000768/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "simventionsincglassdoor46a1984273",
+    "name": "SimVentions, Inc  - Glassdoor ✪ 4.6",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000778,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/simventionsincglassdoor46a1984273",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-simventionsincglassdoor46a1984273",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000778/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "wastemanagement",
+    "name": "Waste Management",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000788,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/wastemanagement",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-wastemanagement",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000788/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "pihhealth",
+    "name": "PIH Health",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15001023,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/pihhealth",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-pihhealth",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15001023/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "metrowestphysicianservicesinc",
+    "name": "MetroWest  Physician Services, Inc",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000930,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/metrowestphysicianservicesinc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-metrowestphysicianservicesinc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000930/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Warminster, PA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Manufacturing"
+      }
+    ],
+    "tags": [],
+    "short_name": "thethompsonorganization",
+    "name": "The Thompson Organization",
+    "publication_date": "2024-05-29T16:28:42.815376Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000529,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/thethompsonorganization",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-thethompsonorganization",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000529%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000529/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000529/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000529/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000529/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "journeys",
+    "name": "Journeys",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000755,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/journeys",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-journeys",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000755/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "tenetregionalresourcepool",
+    "name": "Tenet Regional Resource Pool",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000965,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/tenetregionalresourcepool",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-tenetregionalresourcepool",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000965/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "blusky",
+    "name": "BluSky",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000739,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/blusky",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-blusky",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000739/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "thelaurelsofgreentreeridge",
+    "name": "The Laurels of Greentree Ridge",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000982,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/thelaurelsofgreentreeridge",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-thelaurelsofgreentreeridge",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000982/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "residentialhomehealthandhospice",
+    "name": "Residential Home Health and Hospice",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000951,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/residentialhomehealthandhospice",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-residentialhomehealthandhospice",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000951/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "cienahealthcaresouthwestmichigan",
+    "name": "Ciena Healthcare Southwest Michigan",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000893,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/cienahealthcaresouthwestmichigan",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-cienahealthcaresouthwestmichigan",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000893/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "constellationenergy",
+    "name": "Constellation Energy",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000693,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/constellationenergy",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-constellationenergy",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000693/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "houseofsport",
+    "name": "House of Sport",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000813,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/houseofsport",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-houseofsport",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000813/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "omnicontinuingcare",
+    "name": "Omni Continuing Care",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000933,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/omnicontinuingcare",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-omnicontinuingcare",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000933/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "truliteglassaluminumsolutions",
+    "name": "Trulite Glass & Aluminum Solutions",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000856,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/truliteglassaluminumsolutions",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-truliteglassaluminumsolutions",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000856/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "willowbrookmanor",
+    "name": "Willowbrook Manor",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15001019,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/willowbrookmanor",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-willowbrookmanor",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15001019/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Canton, MA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Retail"
+      }
+    ],
+    "tags": [],
+    "short_name": "dxl",
+    "name": "DXL",
+    "publication_date": "2024-05-21T14:12:47.439108Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000522,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/dxl",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-dxl",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000522%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000522/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000522/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000522/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000522/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "genworth",
+    "name": "Genworth",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000829,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/genworth",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-genworth",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000829/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Scottsboro, AL"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "heartlitehospice",
+    "name": "Heartlite Hospice",
+    "publication_date": "2024-05-29T15:38:13.611856Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000531,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/heartlitehospice",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-heartlitehospice",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000531%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000531/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000531/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000531/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000531/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Danville, PA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "geisinger",
+    "name": "Geisinger",
+    "publication_date": "2024-05-21T14:08:29.532942Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000521,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/geisinger",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-geisinger",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000521%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000521/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000521/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000521/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000521/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "propivotal",
+    "name": "ProPivotal",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000864,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/propivotal",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-propivotal",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000864/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "kantar",
+    "name": "Kantar",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000770,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/kantar",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-kantar",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000770/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "schwans",
+    "name": "Schwan's",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000959,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/schwans",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-schwans",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000959/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "Appfire is a leading provider of software that helps developers and teams solve modern challenges with digital solutions.",
+    "locations": [
+      {
+        "name": "Burlington, MA"
+      },
+      {
+        "name": "Gdańsk, Poland"
+      },
+      {
+        "name": "Sofia, Bulgaria"
+      },
+      {
+        "name": "Vancouver, Canada"
+      },
+      {
+        "name": "Warsaw, Poland"
+      },
+      {
+        "name": "Zurich, Switzerland"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Software"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "appfire",
+    "name": "Appfire",
+    "publication_date": "2022-04-13T18:38:26.798501Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000095,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/appfire",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-appfire",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000095%2Fabout_modules%2F110216%2F77b455ff-032d-476e-ad07-e739f0ff7aff.jpg%3Fv%3D9442fbc27c8b660bc08c51848e964d0a9a5cc6ac4f489800acdfb756d58832f5&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000095/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000095/small_logo.png?v=594b9b1839c887f1b2726c178afb9560f287b5880ced986dc0a13d613c0b43ff",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000095/about_modules/110216/77b455ff-032d-476e-ad07-e739f0ff7aff.jpg?v=9442fbc27c8b660bc08c51848e964d0a9a5cc6ac4f489800acdfb756d58832f5",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000095/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "healthconnectamericainc",
+    "name": "HEALTH CONNECT AMERICA, INC",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000729,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/healthconnectamericainc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-healthconnectamericainc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000729/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "careconnect",
+    "name": "CareConnect",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000882,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/careconnect",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-careconnect",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000882/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "michaelfoodsinc",
+    "name": "Michael Foods Inc.",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000840,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/michaelfoodsinc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-michaelfoodsinc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000840/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "christushealth",
+    "name": "Christus Health",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000890,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/christushealth",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-christushealth",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000890/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "CompTIA is the most respected place to help students, career changers, tech professionals—anyone—start and succeed in a tech career. We impact more than 1 million people every year, by providing affordable, quick learning resources in both self-study and online formats. CompTIA resources are found in community colleges, online universities and with training providers. We are a global leader respected by employers around the world, defining the necessary workforce skills and required knowledge. Our global community is dedicated to solving real business problems and future-proofing for success.",
+    "locations": [
+      {
+        "name": "Diepsloot, South Africa"
+      },
+      {
+        "name": "Downers Grove, IL"
+      },
+      {
+        "name": "London, United Kingdom"
+      },
+      {
+        "name": "Tokyo, Japan"
+      },
+      {
+        "name": "Washington, DC"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Education"
+      },
+      {
+        "name": "Information Technology"
+      },
+      {
+        "name": "Non-Profit"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "comptia",
+    "name": "CompTIA",
+    "publication_date": "2023-08-04T15:33:04.693806Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000312,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/comptia",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-comptia",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000312%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000312/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000312/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000312/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000312/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "regencyatbluffspark",
+    "name": "Regency at Bluffs Park",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000941,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/regencyatbluffspark",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-regencyatbluffspark",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000941/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "Lyft provides shared rides, bike-share systems, public transit partnerships, and more.",
+    "locations": [
+      {
+        "name": "Flexible / Remote"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "lyft",
+    "name": "Lyft",
+    "publication_date": "2021-02-01T16:39:35.623947Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 11895,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/lyft",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-lyft",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F11895%2Fabout_modules%2F120400%2F89bda44d-477b-46a6-86b2-bee6e619f428.jpg%3Fv%3D9836414b87fc64ac571b9778c9be5c1f8f3b09a2b5be062755c8bdd3d5cf01a7&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/11895/about_modules/120400/de055563-a213-4498-bcf8-45a8add73541.jpg?v=70c846ba05ab770c44338a7d3edfc562f9ed093b7b7c91ab281c50990d2dfb98",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/11895/small_logo.png?v=3aa166b7ce8fd83d1423ee60a09b77ce60e2241a91acf17c3aab3ddc3cca6200",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/11895/about_modules/120400/89bda44d-477b-46a6-86b2-bee6e619f428.jpg?v=9836414b87fc64ac571b9778c9be5c1f8f3b09a2b5be062755c8bdd3d5cf01a7",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/11895/about_modules/120400/cd561c20-d4bf-40f1-b26c-a92897b545f7.jpg?v=a08266c28984921a47ee2bd1fb0cfb40d209486afd5d62e6a56054827a196dc9"
+    }
+  },
+  {
+    "description": "We are the financial technology platform of choice for the world’s leading brands. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen works with the likes of Facebook, Uber, H&M, eBay, and Microsoft.",
+    "locations": [
+      {
+        "name": "Amsterdam, Netherlands"
+      },
+      {
+        "name": "Chicago, IL"
+      },
+      {
+        "name": "New York, NY"
+      },
+      {
+        "name": "San Francisco, CA"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Financial Services"
+      },
+      {
+        "name": "Fintech"
+      },
+      {
+        "name": "Software"
+      },
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "adyen",
+    "name": "Adyen",
+    "publication_date": "2023-03-07T18:13:32.627813Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000210,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/adyen",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-adyen",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000210%2Fabout_modules%2F116331%2Fa7fff100-2135-46d4-aa33-c0295aefc45f.jpg%3Fv%3D8ddeb12789da2dc78453e0143d2a1e59b556e88d950a50b724408859419fecbb&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000210/about_modules/116331/58bf0ad9-0a94-48bb-b48a-3db771bcc656.jpg?v=cc3397a9ef6e8e30453056d3fd478dfab5c9e132804f441412a0f1cddaaeebea",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000210/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000210/about_modules/116331/a7fff100-2135-46d4-aa33-c0295aefc45f.jpg?v=8ddeb12789da2dc78453e0143d2a1e59b556e88d950a50b724408859419fecbb",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000210/about_modules/116331/923819e8-474f-482f-9075-6658dc396076.jpg?v=ce379b1bafa5053186a09d6c3bbc1c7847ac322160b51a35c85550982dd8a658"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "Carlsbad, NM"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "carlsbadmedicalcenter",
+    "name": "Carlsbad Medical Center",
+    "publication_date": "2024-05-29T16:11:27.168192Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000526,
+    "size": {
+      "name": "Medium Size",
+      "short_name": "medium"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/carlsbadmedicalcenter",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-carlsbadmedicalcenter",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000526%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000526/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000526/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000526/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000526/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "epictravelstaffing",
+    "name": "Epic Travel Staffing",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000751,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/epictravelstaffing",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-epictravelstaffing",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000751/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "tuftsmedicinecareathome",
+    "name": "Tufts Medicine Care at Home",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000724,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/tuftsmedicinecareathome",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-tuftsmedicinecareathome",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000724/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "rps",
+    "name": "RPS",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000734,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/rps",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-rps",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000734/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "gramercyparkasc",
+    "name": "Gramercy Park ASC",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000833,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/gramercyparkasc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-gramercyparkasc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000833/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "mauserpackagingsolutions",
+    "name": "Mauser Packaging Solutions",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000741,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/mauserpackagingsolutions",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-mauserpackagingsolutions",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000741/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "comcastcorporation",
+    "name": "Comcast Corporation",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000895,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/comcastcorporation",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-comcastcorporation",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000895/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "Uber is changing how people think about transportation, part of the logistical fabric of 600+ cities. Whether it’s a ride, a sandwich, or a package, Uber gives people what they want when they want it.",
+    "locations": [
+      {
+        "name": "Amsterdam, Netherlands"
+      },
+      {
+        "name": "Bangalore, India"
+      },
+      {
+        "name": "Buenos Aires, Argentina"
+      },
+      {
+        "name": "Chicago, IL"
+      },
+      {
+        "name": "Dallas, TX"
+      },
+      {
+        "name": "Hong Kong"
+      },
+      {
+        "name": "Hyderabad, India"
+      },
+      {
+        "name": "Krakow, Poland"
+      },
+      {
+        "name": "London, United Kingdom"
+      },
+      {
+        "name": "Mexico City, Mexico"
+      },
+      {
+        "name": "New York, NY"
+      },
+      {
+        "name": "Paris, France"
+      },
+      {
+        "name": "Phoenix, AZ"
+      },
+      {
+        "name": "San Francisco, CA"
+      },
+      {
+        "name": "Seattle, WA"
+      },
+      {
+        "name": "Sunnyvale, CA"
+      },
+      {
+        "name": "Sydney, Australia"
+      },
+      {
+        "name": "São Paulo, Brazil"
+      },
+      {
+        "name": "Taipei, Taiwan"
+      },
+      {
+        "name": "Tokyo, Japan"
+      },
+      {
+        "name": "Toronto, Canada"
+      },
+      {
+        "name": "Visakhapatnam, India"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Technology"
+      }
+    ],
+    "tags": [],
+    "short_name": "uber",
+    "name": "Uber",
+    "publication_date": "2016-01-13T21:59:13.279775Z",
+    "model_type": "companies",
+    "twitter": "uber",
+    "id": 61,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/uber",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-uber",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F61%2Fabout_modules%2F105102%2F47caeea1-3f24-4eb2-9c4c-298afd1cdd45.jpg%3Fv%3D63544dcdb77206e5ab33fb61312f83867f486b47dacba2e498b31ca01abe74e4&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/61/about_modules/105102/b518797a-7e27-4df4-bee1-0eb83c4d25ff.jpg?v=fd559f0078f8f54d403715a522dc89f9afece44706f3f29c15a2b32fc9ca37a4",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/61/small_logo.png?v=b82887fc031783c73c6f38115fbe93c547b8159f795e6db9882f519bb7ccd44c",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/61/about_modules/105102/47caeea1-3f24-4eb2-9c4c-298afd1cdd45.jpg?v=63544dcdb77206e5ab33fb61312f83867f486b47dacba2e498b31ca01abe74e4",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/61/about_modules/105102/bfb9d67e-a4a3-4ad8-b2d9-1bccc20f55bd.jpg?v=215e5fea4184a0283008d1ae38259a8b22add61c364fbeed737441c8a54a0766"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "themanorofnovi",
+    "name": "The Manor of Novi",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15001009,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/themanorofnovi",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-themanorofnovi",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15001009/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [
+      {
+        "name": "North Charleston, SC"
+      }
+    ],
+    "industries": [
+      {
+        "name": "Healthcare"
+      }
+    ],
+    "tags": [],
+    "short_name": "heartofhospicellc",
+    "name": "Heart of Hospice LLC",
+    "publication_date": "2024-05-29T16:16:11.332961Z",
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000527,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/heartofhospicellc",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-heartofhospicellc",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000527%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+      "f2_image": "https://assets.themuse.com/uploaded/companies/15000527/about_modules/None/profile_image_2.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000527/small_logo.png",
+      "f1_image": "https://assets.themuse.com/uploaded/companies/15000527/about_modules/None/profile_image_1.jpg",
+      "f3_image": "https://assets.themuse.com/uploaded/companies/15000527/about_modules/None/profile_image_3.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "tristarhealthcareathome",
+    "name": "TriStar Healthcare at Home",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000648,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/tristarhealthcareathome",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-tristarhealthcareathome",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000648/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "masonicare",
+    "name": "Masonicare",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000928,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/masonicare",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-masonicare",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000928/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "uchealth",
+    "name": "UCHealth",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000754,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/uchealth",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-uchealth",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000754/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  },
+  {
+    "description": "",
+    "locations": [],
+    "industries": [],
+    "tags": [],
+    "short_name": "astrazeneca",
+    "name": "AstraZeneca",
+    "publication_date": null,
+    "model_type": "companies",
+    "twitter": null,
+    "id": 15000614,
+    "size": {
+      "name": "Large Size",
+      "short_name": "large"
+    },
+    "refs": {
+      "landing_page": "https://www.themuse.com/companies/astrazeneca",
+      "jobs_page": "https://www.themuse.com/search/jobs/c-astrazeneca",
+      "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=images%2Fprofile%2Fplaceholder.jpg&h=135&prog=1&w=183",
+      "f2_image": "images/profile/placeholder.jpg",
+      "logo_image": "https://assets.themuse.com/uploaded/companies/15000614/small_logo.png",
+      "f1_image": "images/profile/placeholder.jpg",
+      "f3_image": "https://assets.themuse.com/images/profile/placeholder.jpg"
+    }
+  }
+]
