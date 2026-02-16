@@ -1,0 +1,862 @@
+[
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -94.789873,
+    "id": "5342707797",
+    "company": {
+      "display_name": "First American Payments Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzQyNzA3Nzk3In0.-KYG_IMQT8u48S8vGmmS7MZH_rD5wnWovXlxxyoYcII",
+    "redirect_url": "https://www.adzuna.com/land/ad/5342707797?se=8pJMvJe18BGXceW0EHWxlg&utm_medium=api&utm_source=f4b4724f&v=4BE1C55C293FD0FA5359E68EF58E394C830DF196",
+    "salary_max": 70000,
+    "salary_is_predicted": "0",
+    "title": "Implementation Specialist II",
+    "description": "Now is your chance to join an organization that drives change. We’re a company that’s consistently on top employer lists. Why join us: There is a reason we boast numerous awards like “Great Place to Work Certified” and “Best Place to Work” For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization. We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/pa…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "latitude": 38.827109,
+    "salary_min": 55000,
+    "created": "2025-08-07T18:07:01Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lenexa, Johnson County",
+      "area": [
+        "US",
+        "Kansas",
+        "Johnson County",
+        "Lenexa"
+      ]
+    },
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "title": "Implementation Specialist II",
+    "salary_is_predicted": "1",
+    "salary_max": 84506.56,
+    "redirect_url": "https://www.adzuna.com/details/5234732676?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Minneapolis, Hennepin County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIzNDczMjY3NiIsInMiOiI4cEpNdkplMThCR1hjZVcwRUhXeGxnIn0.7UFnZK--YY4ydVbQOomF9JaUul_SLooe8rSUo5H6uNI",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Deluxe"
+    },
+    "id": "5234732676",
+    "longitude": -93.3059,
+    "created": "2025-06-05T12:19:47Z",
+    "salary_min": 84506.56,
+    "latitude": 44.9745,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 33.795821,
+    "salary_min": 72420.91,
+    "longitude": -84.38763,
+    "created": "2025-06-05T12:19:10Z",
+    "id": "5234729390",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MjM0NzI5MzkwIn0.i0uWxqAwvOyWUQihHEYRTM9dBue3tGgT-_QAhzPc0oA",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Deluxe"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5234729390?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ]
+    },
+    "salary_max": 72420.91,
+    "salary_is_predicted": "1",
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "title": "Implementation Specialist II",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "id": "5234727299",
+    "redirect_url": "https://www.adzuna.com/details/5234727299?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "display_name": "Quivira, Johnson County",
+      "area": [
+        "US",
+        "Kansas",
+        "Johnson County",
+        "Quivira"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MjM0NzI3Mjk5In0.y3L99RNwhgGj9pjKeO-ygjfSbm3eRc2mFRhdmRibTcI",
+    "company": {
+      "display_name": "Deluxe",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "salary_max": 72932.98,
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "title": "Implementation Specialist II",
+    "salary_min": 72932.98,
+    "latitude": 38.95002,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -94.78194,
+    "created": "2025-06-05T12:18:43Z",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "description": "Now is your chance to join an organization that drives change. We’re a company that’s consistently on top employer lists. Why join us: There is a reason we boast numerous awards like “Great Place to Work Certified” and “Best Place to Work” For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization. We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/pa…",
+    "title": "Senior Manager of Information Security - Application Security",
+    "salary_max": 175000,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "First American Payments Systems"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzQyMjc3OTIxIn0.B_iVxq7Ml7vF3UnYWu1q40mH_mTbR7uIk1nFRJMFymc",
+    "redirect_url": "https://www.adzuna.com/land/ad/5342277921?se=8pJMvJe18BGXceW0EHWxlg&utm_medium=api&utm_source=f4b4724f&v=399CC5842DF02D7C0771A9877AEAA2778A8461D6",
+    "id": "5342277921",
+    "longitude": -84.388372,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2025-08-07T15:55:15Z",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 33.755711,
+    "salary_min": 145000,
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "longitude": -84.38763,
+    "created": "2025-07-31T17:02:13Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 190584,
+    "latitude": 33.795821,
+    "title": "Senior Manager of Information Security - Application Security",
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "salary_max": 190584,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzMDY2MjMwOCIsInMiOiI4cEpNdkplMThCR1hjZVcwRUhXeGxnIn0.Bnc1JD7aueMR8Kyh-Z6cY93upPlcCoo_pikVXtgshG4",
+    "company": {
+      "display_name": "Deluxe",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5330662308?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ]
+    },
+    "id": "5330662308",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "title": "Senior Manager, Information Security - Architecture and Engineering",
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "salary_max": 251081.7,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzMDY2MjMwNiIsInMiOiI4cEpNdkplMThCR1hjZVcwRUhXeGxnIn0.ow2_innabImmYXaETayoI4ndmIW_lD8aLqFUxOu6qfk",
+    "company": {
+      "display_name": "Deluxe",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5330662306?utm_medium=api&utm_source=f4b4724f",
+    "id": "5330662306",
+    "created": "2025-07-31T17:02:13Z",
+    "longitude": -84.38763,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 33.795821,
+    "salary_min": 251081.7,
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "id": "5344640850",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzQ0NjQwODUwIn0.mF27Fy6Zias2joZDdgW4aufF8xSUm9cZrlItcrIS8jw",
+    "company": {
+      "display_name": "Deluxe Corporation",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5344640850?se=8pJMvJe18BGXceW0EHWxlg&utm_medium=api&utm_source=f4b4724f&v=A38E3C7C226CCED7C077C18C47ECAF633A5185B6",
+    "salary_max": 175000,
+    "salary_is_predicted": "0",
+    "description": "Now is your chance to join an organization that drives change. We’re a company that’s consistently on top employer lists. Why join us: There is a reason we boast numerous awards like “Great Place to Work Certified” and “Best Place to Work” For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization. We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/pa…",
+    "title": "Senior Manager, Information Security - Architecture and Engineering",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "longitude": -84.388372,
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "display_name": "Atlanta, Fulton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 145000,
+    "latitude": 33.755711,
+    "created": "2025-08-08T17:46:36Z",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "salary_min": 292982.38,
+    "latitude": 44.9745,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2025-07-31T17:03:07Z",
+    "longitude": -93.3059,
+    "id": "5330670822",
+    "redirect_url": "https://www.adzuna.com/details/5330670822?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ],
+      "display_name": "Minneapolis, Hennepin County"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzMDY3MDgyMiIsInMiOiI4cEpNdkplMThCR1hjZVcwRUhXeGxnIn0.wDrElQuvhjXPlkvi3f3oOL7dftQa4t3dWfdc7QMNHwU",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Deluxe"
+    },
+    "salary_is_predicted": "1",
+    "salary_max": 292982.38,
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "title": "Senior Manager, Information Security - Architecture and Engineering",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "longitude": -93.3059,
+    "created": "2025-07-31T17:03:06Z",
+    "salary_min": 222388.58,
+    "latitude": 44.9745,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Now is your chance to join an organization that drives change. We're a company that's consistently on top employer lists. Why join us:  There is a reason we boast numerous awards like \"Great Place to Work Certified\" and \"Best Place to Work\" For Moms, Dads, LGBTQ, and VETS (just to name a few). At Deluxe, we know that great people make a great organization.  We value our people so offer the typical benefits (401K, PTO, Medical, Dental) PLUS: Flexible time off, volunteer time off, paid maternity/…",
+    "title": "Senior Manager of Information Security - Application Security",
+    "salary_is_predicted": "1",
+    "salary_max": 222388.58,
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ],
+      "display_name": "Minneapolis, Hennepin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5330670777?utm_medium=api&utm_source=f4b4724f",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOHBKTXZKZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzMwNjcwNzc3In0.5fvRlV2dcFRKKl-aHyoGbMMU5QUb6OzERy_rJ92JSHM",
+    "company": {
+      "display_name": "Deluxe",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5330670777",
+    "_country": "us",
+    "_company_query": "A Place For Mom"
+  },
+  {
+    "created": "2025-08-24T19:22:40Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_time": "full_time",
+    "salary_min": 189031.27,
+    "description": "Your Impact We are seeking a highly experienced Principal Marketing Measurement & Data Science to drive the development and implementation of advanced analytical frameworks that optimize marketing investments, personalize customer experiences, and support enterprise-wide measurement. This role sits at the intersection of marketing strategy, advanced analytics, and data engineering. The ideal candidate will bring deep technical skills, thought leadership, and hands-on experience to design, execu…",
+    "title": "Principal Data Scientist - Marketing Measurement & Data Science",
+    "salary_max": 189031.27,
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lowe's Home Centers"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZGpqLXZaZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzY3MDQ4MjA3In0.GaMVu5gHmVHvrXNOZcalcOOAXELy34IpzYNC-gL0I70",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US"
+      ],
+      "display_name": "US"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5367048207?utm_medium=api&utm_source=f4b4724f",
+    "id": "5367048207",
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "salary_min": 166993.02,
+    "latitude": 35.21514,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "longitude": -80.82779,
+    "created": "2025-08-21T17:11:10Z",
+    "redirect_url": "https://www.adzuna.com/details/5362442876?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "area": [
+        "US",
+        "North Carolina",
+        "Mecklenburg County",
+        "Charlotte"
+      ],
+      "display_name": "Charlotte, Mecklenburg County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Lowe's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MjQ0Mjg3NiIsInMiOiJkamotdlplMThCR1hjZVcwRUhXeGxnIn0.-hWNRJjh1YnoheXKVNRAnbj7Xes_9_41mSPBc7RfvNk",
+    "id": "5362442876",
+    "title": "Principal Data Scientist - Marketing Measurement & Data Science",
+    "description": "Your Impact We are seeking a highly experienced Principal Marketing Measurement & Data Science to drive the development and implementation of advanced analytical frameworks that optimize marketing investments, personalize customer experiences, and support enterprise-wide measurement. This role sits at the intersection of marketing strategy, advanced analytics, and data engineering. The ideal candidate will bring deep technical skills, thought leadership, and hands-on experience to design, execu…",
+    "salary_is_predicted": "1",
+    "salary_max": 166993.02,
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "id": "4804528126",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwNDUyODEyNiIsInMiOiJkamotdlplMThCR1hjZVcwRUhXeGxnIn0.Zpr2ERwFiTFmF5WqXEx63mgAAXKkLud3TAjiWYuuPvQ",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Roberts Recruiting"
+    },
+    "redirect_url": "https://www.adzuna.com/details/4804528126?utm_medium=api&utm_source=f4b4724f",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ],
+      "display_name": "Boston, Suffolk County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 118013.08,
+    "salary_is_predicted": "1",
+    "description": "Introduction We are looking for a Testing Manager to join our Business Analytics team and lead efforts to solve some of the most complex testing and optimization scenarios in a fast-growing ecommerce company leveraging the trove of online data from our 35M members. This position requires a combination of strong testing, analytics and statistical skills. Solid understanding of ecommerce businesses that operate in multiple channels and cater to an engaged customer base. As a Testing Manager you w…",
+    "title": "Manager, Testing Optimization & Analytics",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 118013.08,
+    "latitude": 42.354856,
+    "created": "2024-08-01T05:21:43Z",
+    "longitude": -71.066119,
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "North Carolina",
+        "Wake County",
+        "Five Points"
+      ],
+      "display_name": "Five Points, Wake County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5308662817?utm_medium=api&utm_source=f4b4724f",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RELX INC"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZGpqLXZaZTE4QkdYY2VXMEVIV3hsZyIsImkiOiI1MzA4NjYyODE3In0.1oC3_TVkLP738WQq1NapUl-44_XY5zc7_tStMXZERVY",
+    "id": "5308662817",
+    "description": "Are you looking to develop your product experimentation? experience? Would you enjoy working on our cutting-edge products? About our team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX, a global provider of information-based analytics and decision tools for professional and business customers. Our company has been a long-time leader in deploying AI and advanced technologies to the legal market to improve produc…",
+    "title": "Product Experimentation Lead",
+    "salary_is_predicted": "1",
+    "salary_max": 193486.7,
+    "salary_min": 193486.7,
+    "latitude": 35.807915,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-07-17T16:37:26Z",
+    "longitude": -78.646597,
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "description": "Help us change lives At Exact Sciences, we’re helping change how the world prevents, detects and guides treatment for cancer. We give patients and clinicians the clarity needed to make confident decisions when they matter most. Join our team to find a purpose-driven career, an inclusive culture, and robust benefits to support your life while you’re working to help others. Position Overview At Exact Sciences, we are cancer fighters. We are united by our mission to change lives by providing earli…",
+    "title": "Sr. Product Manager, IT Product Management",
+    "salary_max": 151000,
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Exact Sciences",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2OTczMzYxNSIsInMiOiJkamotdlplMThCR1hjZVcwRUhXeGxnIn0.JarS8gGGB2mx0X4yTJP-Hfpm0T6tJRdIHJjckexV1gs",
+    "redirect_url": "https://www.adzuna.com/details/5469733615?utm_medium=api&utm_source=f4b4724f",
+    "id": "5469733615",
+    "longitude": -89.372477,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Madison, Dane County",
+      "area": [
+        "US",
+        "Wisconsin",
+        "Dane County",
+        "Madison"
+      ]
+    },
+    "created": "2025-10-29T10:26:31Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "latitude": 43.08332,
+    "salary_min": 89000,
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "title": "Experimentation Advisor - FME",
+    "description": "Harness is a high-growth company that is disrupting the software delivery market. Our mission is to enable the 30 million software developers in the world to deliver code to their users reliably, efficiently, securely and quickly, increasing customers’ pace of innovation while improving the developer experience. We offer solutions for every step of the software delivery lifecycle to build, test, secure, deploy and manage reliability, feature flags and cloud costs. The Harness Software Delivery …",
+    "salary_is_predicted": "0",
+    "salary_max": 164000,
+    "redirect_url": "https://www.adzuna.com/details/5431517893?utm_medium=api&utm_source=f4b4724f",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzMTUxNzg5MyIsInMiOiJkamotdlplMThCR1hjZVcwRUhXeGxnIn0.u6UV22gaB9lNJ33PHgU53py4oeSG_09BWeMKuFrBqbE",
+    "company": {
+      "display_name": "Harness",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5431517893",
+    "contract_type": "contract",
+    "longitude": -73.970368,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "New York City, New York",
+      "area": [
+        "US",
+        "New York",
+        "New York City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2025-10-04T09:07:14Z",
+    "latitude": 40.767036,
+    "salary_min": 140000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_country": "us",
+    "_company_query": "AB Tasty"
+  },
+  {
+    "description": "Description ABM Industries is searching for a Vice President of Operations to support our Business & Industry Group and lead operations across Northern CA. The Vice President of Operations will plan, direct, coordinate, and oversee operations activities in the organization, ensuring development and implementation of efficient operations and cost-effective systems to meet current and future needs of the organization. The ideal candidate will be a business leader with a facilities management back…",
+    "id": "5402514916",
+    "latitude": 38.596713,
+    "title": "Vice President of Operations - Northern CA",
+    "redirect_url": "https://www.adzuna.com/details/5402514916?utm_medium=api&utm_source=f4b4724f",
+    "company": {
+      "display_name": "ABM",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 306000,
+    "salary_min": 145950,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMjUxNDkxNiIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.NH3IpA_oFVMacSuvE3FXKqk-O4tmcSqblcehEqGWN9k",
+    "longitude": -121.494174,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Sacramento, Sacramento County",
+      "area": [
+        "US",
+        "California",
+        "Sacramento County",
+        "Sacramento"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2025-09-16T21:46:35Z",
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "longitude": -95.63472,
+    "redirect_url": "https://www.adzuna.com/details/5464503876?utm_medium=api&utm_source=f4b4724f",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5464503876",
+    "description": "Overview ABM is seeking a forward-thinking, creative, and bold Internal Communications Manager to join our Communications team. Reporting to the Senior Manager of Executive and Strategic Communications, this high-profile role will serve as the dedicated communications partner for ABM's Technology, Transformation, and Procurement functions-with primary focus on the Technology organization. Embedded within the Technology organization, this role is expected to integrate with teams and work closely…",
+    "salary_is_predicted": "1",
+    "latitude": 29.61942,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDUwMzg3NiIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.0MzGzQaSKMhq98uUvnucVl2xrnRJmS4IE7wB2QbsMhk",
+    "title": "Internal Communications Manager - Technology, Transformation and Procurement",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Texas",
+        "Fort Bend County",
+        "Sugar Land"
+      ],
+      "display_name": "Sugar Land, Fort Bend County"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2025-10-25T15:34:18Z",
+    "company": {
+      "display_name": "ABM Industries",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 104738.91,
+    "salary_max": 104738.91,
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiR2s2eHY1ZTE4QkdlaFo2Wm45cmUzZyIsImkiOiI1NDQzNTQxOTYzIn0.cOMIL9Hay3v_NzAS9zemYlbcIR8-aJaszsiBLsiUPto",
+    "latitude": 33.795821,
+    "title": "Senior Network Perimeter Security Architect",
+    "description": "Overview Benefit Information: ABM offers a comprehensive benefits package. For information about ABM's benefits, visit: Recruiting Flyer - Staff & Mgmt (https://media.abm.com/wp-content/uploads/AnnualBenefitFlyers/Recruiting%20Flyer%20-%20Staff%20&%20Mgmt.pdf) 1.1 Job Description ABM is currently seeking an initiative-taking and experienced Senior Network Perimeter Security Architect. This role is responsible for the leading design, implementation, and management of our enterprise perimeter sec…",
+    "id": "5443541963",
+    "redirect_url": "https://www.adzuna.com/details/5443541963?utm_medium=api&utm_source=f4b4724f",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -84.38763,
+    "salary_max": 175876.2,
+    "salary_min": 175876.2,
+    "company": {
+      "display_name": "ABM Industries",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2025-10-11T19:10:06Z",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "display_name": "Atlanta, Fulton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "display_name": "Atlanta, Fulton County"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2025-09-13T18:14:40Z",
+    "salary_min": 148302.75,
+    "salary_max": 148302.75,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABM Industries"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5398309998?utm_medium=api&utm_source=f4b4724f",
+    "longitude": -84.38763,
+    "latitude": 33.795821,
+    "salary_is_predicted": "1",
+    "title": "Business Analyst Oracle Cloud PPM",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5ODMwOTk5OCIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.4IAKG9rIaEpKTGbf3GGLbnnmxasvTIPZsTKO6Ipxl6A",
+    "id": "5398309998",
+    "description": "Overview Essential Functions:  Lead functional application resource for operational support and maintenance of the Oracle Cloud PPM application.  Design, maintain and troubleshoot the integrations from applications that interface to PPM, both within Oracle Fusion Cloud ERP instance and from external systems, such as payroll, time and attendance and sales tax.  Maintain Subledger Accounting (SLA) rules related to PPM and General Ledger.  Design and configure Invoicing capabilities within Oracle …",
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5212510614?utm_medium=api&utm_source=f4b4724f",
+    "longitude": -84.300837,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxMjUxMDYxNCIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.rDyU9jVeUkhn2vXm1bhmG7VASUadhRDhJqjiD2el28Q",
+    "salary_is_predicted": "1",
+    "latitude": 34.076445,
+    "title": "BISO Cybersecurity Director",
+    "description": "Overview ABM (NYSE: ABM) is a leading provider of facility solutions with revenues of approximately $6.4 billion and over 130,000 employees in 300 offices deployed throughout the United States and various international locations. ABM's comprehensive capabilities include electrical & lighting, energy solutions, facilities engineering, HVAC & mechanical, janitorial, landscape & turf, mission critical solutions and parking, provided through stand-alone or integrated solutions. ABM is currently see…",
+    "id": "5212510614",
+    "created": "2025-05-23T11:45:32Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Alpharetta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Alpharetta"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 122069.41,
+    "salary_min": 122069.41,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABM Industries"
+    },
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "created": "2025-07-22T17:02:41Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Minneapolis, Hennepin County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_min": 62169.43,
+    "salary_max": 62169.43,
+    "company": {
+      "display_name": "ABM Industries",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5317112019?utm_medium=api&utm_source=f4b4724f",
+    "longitude": -93.3059,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMxNzExMjAxOSIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.C0Um617K3_ubC4WmbXL8XK1Wc8uk1p53OiFNknHLxx4",
+    "salary_is_predicted": "1",
+    "latitude": 44.9745,
+    "title": "Facility Maintenance Technician",
+    "id": "5317112019",
+    "description": "Under the supervision of Chief Engineer and/or Assistant Chief Engineer, responsible for maintenance and repairs to the buildings and grounds, related fixed and portable equipment and installation, while establishing a safe environment for the facility. Supports the implementation and documentation of site safety plans and all ABM Engineering Services operational standards and guidelines as well as site specific standards, policies and procedures relating to the engineering department. FUNCTION…",
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "salary_max": 48579.02,
+    "salary_min": 48579.02,
+    "company": {
+      "display_name": "ABM Industries",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2025-07-02T14:09:28Z",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minnetonka Mills"
+      ],
+      "display_name": "Minnetonka Mills, Hennepin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Facility Technician",
+    "salary_is_predicted": "1",
+    "latitude": 44.93248,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiR2s2eHY1ZTE4QkdlaFo2Wm45cmUzZyIsImkiOiI1MjgwMzQwMDkxIn0.VeKMCxgKTVZHMPuelv5JI-eUuOw_Gjx8ifvglOl5pnQ",
+    "description": "Routinely responsible for the maintenance and repairs to the building and grounds, related fixed portable equipment and installation under the supervision of the Chief Engineer and/or Assistant Chief Engineer. Supports the implementation and documentation of site safety plans and all ABM Engineering Services' operational standards and guidelines, as well as site specific standards, policies and procedures relating to the engineering department. Functions or Duties:  In general, the role and tas…",
+    "id": "5280340091",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5280340091?utm_medium=api&utm_source=f4b4724f",
+    "longitude": -93.46778,
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "longitude": -122.07702,
+    "redirect_url": "https://www.adzuna.com/details/5437623787?utm_medium=api&utm_source=f4b4724f",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Overview The Workplace Reporting & Planning Specialist will play a crucial role in providing the data and analytics that drive our workplace strategy. You will support our client's Corporate Real Estate team by transforming complex workplace data into clear, actionable reports and strategic plans. Your work will directly inform decisions on space utilization, portfolio optimization, and future workplace solutions. You'll be expected to work independently, manage your time effectively, and maint…",
+    "id": "5437623787",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNzYyMzc4NyIsInMiOiJHazZ4djVlMThCR2VoWjZabjlyZTNnIn0.-0vk2OPnpVMbVjjOjOY3O_YSdGKqju1XtlUskDBr-KM",
+    "latitude": 37.39308,
+    "title": "Workplace Reporting & Planning Specialist",
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "Santa Clara County",
+        "Mountain View"
+      ],
+      "display_name": "Mountain View, Santa Clara County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2025-10-08T14:09:00Z",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABM Industries"
+    },
+    "salary_max": 183962.3,
+    "salary_min": 183962.3,
+    "_country": "us",
+    "_company_query": "ABM Industries"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5461666996?utm_medium=api&utm_source=f4b4724f",
+    "longitude": -74.17421,
+    "latitude": 40.73111,
+    "salary_is_predicted": "1",
+    "title": "Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiR2s2eHY1ZTE4QkdlaFo2Wm45cmUzZyIsImkiOiI1NDYxNjY2OTk2In0.OhIdVJTEyb_Y7JvhGz50kDs0zxGIzNXF_hm4b6PUwLY",
+    "id": "5461666996",
+    "description": "Under the supervision of Chief Engineer and/or Assistant Chief Engineer, the Engineer is responsible for maintenance and repairs to the buildings and grounds, related fixed and portable equipment and installation, while establishing a safe environment for the facility. The Engineer supports the implementation and documentation of site safety plans and all Able Engineering Services operational standards and guidelines as well as site specific standards, policies and procedures relating to the en…",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Newark, Essex County",
+      "area": [
+        "US",
+        "New Jersey",
+        "Essex County",
+        "Newark"
+      ]
+    }
